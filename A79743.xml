@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A petition delivered to the Parliament of Scotland by the commissioners of the generall assembly of the Kirk, Aprill 18. 1648. For a right understanding between the kingdoms, for settling religion and peace. And for confirming the covenant and the Presbyterian government. With their supplication concerning the Kings Majesty. And their demands from the parliament of England.</title>
+            <author>Church of Scotland. General Assembly. Commission.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79743</idno>
+            <idno type="STC">Wing C4232A</idno>
+            <idno type="STC">Thomason E437_8</idno>
+            <idno type="STC">ESTC R204694</idno>
+            <idno type="EEBO-CITATION">99864159</idno>
+            <idno type="PROQUEST">99864159</idno>
+            <idno type="VID">161631</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79743)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161631)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 69:E437[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A petition delivered to the Parliament of Scotland by the commissioners of the generall assembly of the Kirk, Aprill 18. 1648. For a right understanding between the kingdoms, for settling religion and peace. And for confirming the covenant and the Presbyterian government. With their supplication concerning the Kings Majesty. And their demands from the parliament of England.</title>
+                  <author>Church of Scotland. General Assembly. Commission.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed (according to the copy sent from Edenburgh) by Robert Ibbitson in Smithfield,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland. --  Parliament --  Early works to 1800.</term>
+               <term>Church of Scotland --  Government --  Early works to 1800.</term>
+               <term>Solemn League and Covenant (1643) --  Early works to 1800.</term>
+               <term>Church and state --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161631:1"/>
+            <pb facs="tcp:161631:1" rendition="simple:additions"/>
+            <p>A PETITION Delivered to the PARLIAMENT of SCOTLAND By the Commiſſioners of the Generall Aſſembly of the Kirk, <hi>Aprill</hi> 18. 1648. FOR A Right underſtanding between the Kingdoms, for ſettling Religion and peace. AND For confirming the Covenant and the <hi>Presbyterian Government. With their ſupplications concerning the Kings Maje<g ref="char:EOLhyphen"/>ſty. And their demands from the Parliament of</hi> ENGLAND.</p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <opener>
+                     <dateline>
+                        <date>
+                           <hi>April</hi> 26. 1648</date>
+                     </dateline>
+                  </opener>
+                  <p> Imprimatur </p>
+                  <closer>
+                     <signed>G. M.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>LONDON,</hi> Printed (according to the Copy ſent from <hi>Edenburgh</hi>) by ROBERT IBBITSON in Smithfield, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:161631:2"/>
+            <pb n="1" facs="tcp:161631:2"/>
+            <head>Edenburgh, 18. <hi>Aprill,</hi> 1648. <hi>To the Right Honourable and High Court of Parliament,</hi> The humble Petition of the Commiſ<g ref="char:EOLhyphen"/>ſioners of the Generall Aſſembly of the Kirk of <hi>Scotland.</hi>
+            </head>
+            <p>REligion being of all things the moſt ex<g ref="char:EOLhyphen"/>cellent, as it hath bin the principall end of all the undertaking and endevours of this Nation, ſo it is the maine ſubject of our thoughts and cares: And we truſt is moſt in the hearts of all the faithfull Miniſters and godly people throughout the land. As ſeve<g ref="char:EOLhyphen"/>rall of their ſupplications unto your Lord<g ref="char:EOLhyphen"/>ſhips can make evident, it was from the ten<g ref="char:EOLhyphen"/>der
+<pb n="2" facs="tcp:161631:3"/>regard we had of this ſo pretious a Jewell, that we did emit a Declaration concerning preſent dangers, and duties, it was alſo for our reſpects thereunto pur<g ref="char:EOLhyphen"/>ſuing your Lordſhips inclination to an engagement, from which we neither were then, nor now are averſe (being firſt ſatisfied in the grounds of undertaking, and in the way of the managing of the ſame, That we did afterwards propound ſome humble deſires unto your Lordſhips, containing things neceſſary for a right un<g ref="char:EOLhyphen"/>derſtanding, and ſecuring of Religion, and preſerve the union betwixt the kingdomes) But after long at<g ref="char:EOLhyphen"/>tendance, and moſt earneſt expectation, having recei<g ref="char:EOLhyphen"/>ved no ſatisfaction from your Lordſhips, in theſe our deſires. And perceiving that your Lordſhips reſoluti<g ref="char:EOLhyphen"/>ons are towards an ingagement in a War, we do (from no other principle, and intention, then the love of the truth, and the diſcharge of the truſt committed unto us, as the ſervants of the living God, and of his Son Je<g ref="char:EOLhyphen"/>ſus Chriſt, who ſhall judge the quick and dead) entreat and obteſt your Lordſhips, that as you doe profeſs that any undertakings which ye now are, or ſhall be neceſ<g ref="char:EOLhyphen"/>ſitated unto, ſhall onely bee for ſetling of Religion, truth and peace, under his Majeſties Government. So farre concerning our conſciences, and all the faithfull Miniſters and people of God, in both Kingdomes, of the integrity of your intentions, that your Lordſhips will be pleaſed to give us ſatisfaction in all theſe, or former, juſt, and neceſſary deſires, and that for the ſame end, your Lordſhips will make it appeare, that you mean to be ſo farre from intruſting your ſelves in any thing that may put in his Majeſties hands, ſuch power as may not onely bring the by-gone proceed<g ref="char:EOLhyphen"/>ings of both Kingdomes in the League and Covenant
+<pb n="3" facs="tcp:161631:3"/>in queſtion, but alſo for the time to come, will voide all the authorities of Parliament, though they pro<g ref="char:EOLhyphen"/>ceed never ſo rightly, in reference to Religion and Liberties to the kingdome. And that your Lord<g ref="char:EOLhyphen"/>ſhips will bee pleaſed to make it manifeſt that you will be ſo farre from aſſociating with, or giving truſt or countenance to any within the three Kingdomes, who doe not ſweare and ſubſcribe the Solemn League and Covenant; that on the contrary, your Lordſhips will hold them all for profeſt Enemies, adverſaries, and Malignants, &amp; indevour to ſuppreſſe them if they riſe in Armes, which we think we may expect with the greater reaſon and confidence from your Lordſhips, becauſe ye have reſolved to demand of the Parlia<g ref="char:EOLhyphen"/>ment of <hi>England,</hi> that an effectuall courſe bee taken by the Houſes for injoyning the Covenant to be ta<g ref="char:EOLhyphen"/>ken by all the Subjects of the Crowne of <hi>England,</hi> conforme to the firſt Article of the Treaty, and the Declaration of both Kingdomes, in <hi>Anno</hi> 1643. by which all that would not take the Covenant, was de<g ref="char:EOLhyphen"/>clared to bee publique enemies to Religion and the Country, and that they are to be cenſured and puniſh<g ref="char:EOLhyphen"/>ed as profeſſed Adverſaries and Malignants. And we truſt that while your Lordſhips deſire of them the performance of duties, contained in the Treaties and Declarations: you will make it appeare that you in<g ref="char:EOLhyphen"/>tend to doe nothing contrary thereunto. The obli<g ref="char:EOLhyphen"/>gation therein being originally in regard of both, and the performance alike, both conducing for Religion and the Cauſe.</p>
+            <p>And we do humbly intreate that your ho<g ref="char:EOLhyphen"/>nours will be pleaſed to make knowne to us
+<pb n="4" facs="tcp:161631:4"/>your reſolutions upon the whole matter that we may ſee there is nothing therein that may croſſe your Lordſhips demands concerning Religion, and be in-conſiſtant with the ſe<g ref="char:EOLhyphen"/>curity thereof, and our deſires for the ſame, And that which ſhall be thought fiting to be demanded of the Parliament of <hi>England,</hi> con<g ref="char:EOLhyphen"/>cerning Religion; for rendring the ſame the more effectuall, your Lordſhips will at this time ſolicit His Majeſtie for His Royall aſ<g ref="char:EOLhyphen"/>ſent thereunto. That His Majeſty and all others may know that what you intend in his behalfe is with a ſubordination to thoſe ends, and ſo His Majeſty may be pleaſed to remove all obſtructions on His part, that hinder al the ſetling of Religion &amp; his Maje<g ref="char:EOLhyphen"/>ſties Government. And being deſirous that all means, being firſt aſſay'd which may prevent the effuſion of more Chriſtian blood ſo farre as is poſſible. Therefore as the Meſſengers of peace, we do humbly ſupplicate that your Lordſhips will take ſuch courſe for ſeeking reparation from the Parliament of <hi>England</hi> as may be moſt probable in reaſon to obtain the ſame in a peaceable way. And finally,
+<pb n="5" facs="tcp:161631:4"/>we expect that your Lordſhips will doe no<g ref="char:EOLhyphen"/>thing that may ſtrengthen the Popiſh Pre<g ref="char:EOLhyphen"/>laticall, or Malignant Party who are waiting for their day, or that may diſcourage the Presbyterian Party in <hi>England,</hi> or render your wayes ſuſpicious to them, But your Lord<g ref="char:EOLhyphen"/>ſhips will imploy all the power which God hath put into your hands, for advancing his Honour, and the Kingdome of his Sonne. Many of your Lordſhips have been inſtru<g ref="char:EOLhyphen"/>ments in as glorious a work of Reformati<g ref="char:EOLhyphen"/>on, as any age hath ſeen, and all of you hath been witneſſes thereof: And if any thing ſhall proceed from you for weakning or de<g ref="char:EOLhyphen"/>facing thereof, as it will be matter of high provocation againſt the Lord, ſo doubtleſſe it will be trouble to your ſoules, in your lat<g ref="char:EOLhyphen"/>ter end, and meete you in the day of your accounts. And if your Lordſhips ſhall re<g ref="char:EOLhyphen"/>fuſe to hearken to this our ſupplication, we call God to record, that we have exhonerated our ſelves as in his ſight, and that wee and the Kirke of <hi>Scotland,</hi> whoſe truſt wee diſ<g ref="char:EOLhyphen"/>charge in the publique affaires thereof, are free of all the guilt that ſhal follow upon any
+<pb n="6" facs="tcp:161631:5"/>undertakings or reſolutions tending to the prejudices of Religion, the Honour and Happineſſe of the King, and the Union and Peace of the Kingdomes. But wee deſire to perſwade our ſelves better things of your Lordſhips, and that you will give ſuch ſa<g ref="char:EOLhyphen"/>tisfaction as may incourage us to be a teſti<g ref="char:EOLhyphen"/>mony to your Lordſhips, that your eally intend the ſettling of Religion and the car<g ref="char:EOLhyphen"/>rying on of all things in ſuch a way as may contribute for the ſecuring of the ſame.</p>
+            <closer>
+               <signed>A: KER:</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
